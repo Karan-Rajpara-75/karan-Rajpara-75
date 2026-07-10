@@ -87,9 +87,6 @@ I believe:
 <div align="center">
 
 <img src="https://i.pinimg.com/1200x/db/13/7d/db137ddb39070af89f0bf6fc1bc3ea83.jpg" width="300" height="300"/>
-
-<img src="https://media1.tenor.com/m/3bTxZ4HdrysAAAAd/pixels-neon.gif" width="300" height="300"/>
-
 <img src="https://i.pinimg.com/originals/c6/3c/ae/c63cae1344766f14d9d184e5aafed065.gif" width="300" height="300"/>
 
 </div>
