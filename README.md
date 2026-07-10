@@ -23,71 +23,88 @@
 
 ---
 
-## 🌌 About Me
+<table>
+<tr>
 
-```text
-👨‍💻 A developer who loves creating digital experiences.
+<td width="50%" align="center">
 
-🎮 Gaming inspires my creativity.
-💻 Coding is my playground.
-🚀 Learning new technologies every day.
+<img src="https://i.pinimg.com/originals/c6/3c/ae/c63cae1344766f14d9d184e5aafed065.gif" width="100%" height="350"/>
 
-I believe:
-"Great things are built one line of code at a time."
-```
+</td>
 
 
----
+<td width="50%" align="center">
 
-## ⚡ My Universe
+<h2>⚡ My Universe</h2>
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode" />
-
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,c,java,mysql,git,github,vscode" />
 </p>
 
+<br>
 
----
+<h2>🚀 Currently Exploring</h2>
 
-## 🧠 Developer Mindset
+<p>
+<img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,threejs,firebase" />
+</p>
 
-```
-> Create ✨
-> Learn 📚
-> Improve 🚀
-> Repeat 🔥
-```
+<br>
 
+<h2>🌐 Connect With Me</h2>
 
----
-
-## 🌐 Connect With Me
-
-<p align="center">
+<p>
 
 <a href="https://github.com/Karan-Rajpara-75">
 <img src="https://skillicons.dev/icons?i=github" width="55"/>
 </a>
 
-<a href="#">
+<a href="https://www.linkedin.com/in/karan-rajpara-b91969383/">
 <img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
 </a>
 
-<a href="#">
+<a href="https://www.instagram.com/mr.rk0110/">
 <img src="https://skillicons.dev/icons?i=instagram" width="55"/>
 </a>
+
+</p>
+
+<br>
+</td>
+
+</tr>
+</table>
+
+---
+
+---
+
+## 📊 My GitHub Stats
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Karan-Rajpara-75&theme=tokyonight" width="48%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Karan-Rajpara-75&theme=tokyonight&hide_border=true" width="48%"/>
 
 </p>
 
 
 ---
 
+## 🧬 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Karan-Rajpara-75&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
 <!-- PIXEL ART COMPUTER -->
 <div align="center">
 
 <img src="https://i.pinimg.com/1200x/db/13/7d/db137ddb39070af89f0bf6fc1bc3ea83.jpg" width="300" height="300"/>
-<img src="https://i.pinimg.com/originals/c6/3c/ae/c63cae1344766f14d9d184e5aafed065.gif" width="300" height="300"/>
+<img src="https://media1.tenor.com/m/3bTxZ4HdrysAAAAd/pixels-neon.gif" width="300" height="300"/>
 
 </div>
 
